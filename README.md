@@ -1,5 +1,7 @@
 # Enron Spam Classification Project
 
+This project is for CS 4375 Machine Learning Course
+
 Implementations of **Multinomial Naïve Bayes**, **Bernoulli Naïve Bayes**, and **ℓ₂‑regularised Logistic Regression** for spam detection on the Enron e‑mail corpora (`enron1`, `enron2`, `enron4`). Contains text preprocessing (bag of words and bernoulli) and feature‑matrix construction to model training, hyper‑parameter tuning, and metric reporting.
 
 ---
